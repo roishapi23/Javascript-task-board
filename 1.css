@@ -5,7 +5,7 @@ html , body , .page{
 }
 
 body{
-    background-image: url("tile.jpg");
+    background-image: url("/pics/tile.jpg");
     padding-top: 20px;
     /* text-align: center; */
 }
@@ -17,7 +17,7 @@ body{
 
 .noteBookArea{
     height: 30%;
-    background-image: url(formbg.jpg);
+    background-image: url(/pics/formbg.jpg);
     text-align: center;
     width: 600px;
     height: 230px;
@@ -63,7 +63,7 @@ button{
     width: 180px;
     height: 250px;
     padding: 3px;
-    background-image: url(notebg.png);
+    background-image: url(/pics/notebg.png);
     margin: 5px;
     display: inline-block;
     background-repeat: no-repeat;
